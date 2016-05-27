@@ -1,0 +1,22 @@
+{
+  "name": "static-assets",
+  "version": "1.0.0",
+  "description": "kitties app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmalenchek/kitties.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmalenchek/kitties/issues"
+  },
+  "homepage": "https://github.com/rmalenchek/kitties#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
